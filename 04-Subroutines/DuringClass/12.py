@@ -5,6 +5,4 @@ def sum(N):
         return N+sum(N-1)
 
     
-        
-
-print(sum(10))
+print(f"Suma wszystkich liczb w podanym przedziale równa się {sum(10)}")
