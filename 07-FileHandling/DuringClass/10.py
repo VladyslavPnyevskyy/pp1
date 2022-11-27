@@ -1,0 +1,6 @@
+file = open('C:/Study/pp1/07-FileHandling/During class/me.txt','a')
+file.write("vladysla\n")
+file.write("pniewski\n")
+file.write("economic university in krakow\n")
+file.write("applied informatics")
+file.close()
